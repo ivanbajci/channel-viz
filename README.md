@@ -1,3 +1,5 @@
+http://ivanbajci.github.io/channel-viz
+
 # Xively Channel Visualization
 
 This page is an example of just one of many ways you can visualise your data on Xively.  
